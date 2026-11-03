@@ -1,9 +1,11 @@
 # 🚗 Car Sales Analysis Dashboard | Power BI
+## 📊 Dashboard Preview
+https://github.com/asd26dev/PowerBI-Projects/blob/main/Car%20Sales%20DAshboard.png
 
 ## 📌 Project Overview
 An interactive Car Sales Analysis Dashboard developed using Microsoft Power BI to analyze sales performance, revenue trends, and vehicle sales metrics.
 
-This project uses dummy/sample data for learning and portfolio demonstration purposes.
+This project uses sample data for learning and portfolio demonstration purposes.
 
 ## 🛠️ Tools & Technologies
 - Microsoft Power BI
